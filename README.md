@@ -4,5 +4,8 @@ Automatically creates new note page on each day, serving as a personal diary. Cr
 
 Main intention for creating such app was to automatically save every note, so that the users doesn't have to save it manually like in Notepad. Uses Entity Framework Core connecting with SQLite DB to save each note character on the running application.
 
+![obraz](https://github.com/WojciechMarczewski/LaunchDeck/assets/108059127/454bc8c3-b7cf-4565-9e83-8bad294d6fa9)
+
+
 
 
